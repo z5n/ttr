@@ -1,0 +1,501 @@
+{
+    "fish": {
+    "balloon": {
+      "name": "Balloon Fish",
+      "location": "Any Pond",
+      "weight": "1-5 lbs",
+      "value": "2-7",
+      "type": "Twig Rod"
+    },
+    "hotair": {
+      "name": "Hot Air Balloon Fish",
+      "location": "Any Pond",
+      "weight": "1 lbs",
+      "value": "12",
+      "type": "Twig Rod"
+    },
+    "redballoon": {
+      "name": "Red Balloon Fish",
+      "location": "Toontown Central",
+      "weight": "1-5 lbs",
+      "value": "5-7",
+      "type": "Twig Rod"
+    },
+    "weatherballoon": {
+      "name": "Weather Balloon Fish",
+      "location": "The Brrrgh & Toontown Central, Punchline Place",
+      "weight": "3-5 lbs",
+      "value": "17-19",
+      "type": "Twig Rod"
+    },
+    "waterballoon": {
+      "name": "Water Balloon Fish",
+      "location": "Daisy Gardens",
+      "weight": "3-5 lbs",
+      "value": "9-11",
+      "type": "Twig Rod"
+    },
+    "clownfish": {
+      "name": "Clown Fish",
+      "location": "Toontown Central",
+      "weight": "1-8 lbs",
+      "value": "3 -7",
+      "type": "Twig Rod"
+    },
+    "sadclown": {
+      "name": "Sad Clown Fish",
+      "location": "Toontown Central",
+      "weight": "1-8 lbs",
+      "value": "13-17",
+      "type": "Twig Rod"
+    },
+    "circusclown": {
+      "name": "Circus Clown Fish",
+      "location": "Toontown Central",
+      "weight": "1-8 lbs",
+      "value": "21-27",
+      "type": "Twig Rod"
+    },
+    "partyclown": {
+      "name": "Party Clown Fish",
+      "location": "Any Pond",
+      "weight": "1-8 lbs",
+      "value": "6-10",
+      "type": "Twig Rod"
+    },
+    "starfish": {
+      "name": "Star Fish",
+      "location": "Any Pond",
+      "weight": "1-5 lbs",
+      "value": "3-7",
+      "type": "Twig Rod"
+    },
+    "fivestar": {
+      "name": "Five Star Fish",
+      "location": "Any Pond",
+      "weight": "2-6 lbs",
+      "value": "5-8",
+      "type": "Twig Rod"
+    },
+    "shiningstar": {
+      "name": "Shining Star Fish",
+      "location": "Any Pond",
+      "weight": "1-5 lbs",
+      "value": "26-32",
+      "type": "Twig Rod"
+    },
+    "allstar": {
+      "name": "All Star Fish",
+      "location": "The Brrrgh",
+      "weight": "1-5 lbs",
+      "value": "43-46",
+      "type": "Twig Rod"
+    },
+    "peanutbutter": {
+      "name": "Peanut Butter & Jellyfish",
+      "location": "Any Pond",
+      "weight": "1-5 lbs",
+      "value": "5-8",
+      "type": "Twig Rod"
+    },
+    "grape": {
+      "name": "Grape PB&J Fish",
+      "location": "Any Pond",
+      "weight": "1-5 lbs",
+      "value": "12-14",
+      "type": "Twig Rod"
+    },
+    "crunchy": {
+      "name": "Crunchy PB&J Fish",
+      "location": "Daisy Gardens",
+      "weight": "1-5 lbs",
+      "value": "12-14",
+      "type": "Twig Rod"
+    },
+    "strawberry": {
+      "name": "Strawberry PB&J Fish",
+      "location": "Donald's Dreamland",
+      "weight": "1-5 lbs",
+      "value": "16-19",
+      "type": "Twig Rod"
+    },
+    "concordgrape": {
+      "name": "Concord Grape PB&J Fish",
+      "location": "The Brrrgh & Donald's Dreamland",
+      "weight": "1-5 lbs",
+      "value": "44-46",
+      "type": "Twig Rod"
+    },
+    "catfish": {
+      "name": "Cat Fish",
+      "location": "Any Pond",
+      "weight": "1-6 lbs",
+      "value": "3-7",
+      "type": "Twig Rod"
+    },
+    "tabbycat": {
+      "name": "Tabby Cat Fish",
+      "location": "Daisy Gardens & Estate",
+      "weight": "2-6 lbs",
+      "value": "6-11",
+      "type": "Twig Rod"
+    },
+    "siamesemcat": {
+      "name": "Siamese Cat Fish",
+      "location": "Elm Street, Daisy Gardens",
+      "weight": "3-6 lbs",
+      "value": "39-40",
+      "type": "Twig Rod"
+    },
+    "kingcrab": {
+      "name": "King Crab",
+      "location": "Any Pond",
+      "weight": "2-4 lbs",
+      "value": "5-10",
+      "type": "Twig Rod"
+    },
+    "oldkingcrab": {
+      "name": "Old King Crab",
+      "location": "Lighthouse Lane, Donald's Dock",
+      "weight": "4-6 lbs",
+      "value": "33-36",
+      "type": "Twig Rod"
+    },
+    "amore": {
+      "name": "Amore Eel",
+      "location": "Daisy Gardens, Toontown Central",
+      "weight": "2-6 lbs",
+      "value": "3-6",
+      "type": "Twig Rod"
+    },
+    "amoregal": {
+      "name": "Electric Amore Eel",
+      "location": "Daisy Gardens & Estate",
+      "weight": "2-6 lbs",
+      "value": "9-11",
+      "type": "Twig Rod"
+    },
+    "nurseshark": {
+      "name": "Nurse Shark",
+      "location": "Minnie's Melodyland, Toontown Central, Daisy Gardens",
+      "weight": "4-12 lbs",
+      "value": "9/18-24",
+      "type": "Twig Rod"
+    },
+    "claranurse": {
+      "name": "Clara Nurse Shark",
+      "location": "Minnie's Melodyland",
+      "weight": "4-12 lbs",
+      "value": "28-37",
+      "type": "Twig Rod"
+    },
+    "florencenurse": {
+      "name": "Florence Nurse Shark",
+      "location": "Minnie's Melodyland",
+      "weight": "4-11 lbs",
+      "value": "33-39",
+      "type": "Twig Rod"
+    },
+    "puppydog": {
+      "name": "Puppy Dog Fish",
+      "location": "Toontown Central, Donald's Dock",
+      "weight": "1-2 lbs",
+      "value": "5",
+      "type": "Twig Rod"
+    },
+    "hotdog": {
+      "name": "Hot Dog Fish",
+      "location": "Donald's Dock & Estate",
+      "weight": "1-5 lbs",
+      "value": "16-19",
+      "type": "Twig Rod"
+    },
+    "dalmativedog": {
+      "name": "Dalmation Dog Fish",
+      "location": "Donald's Dock & Estate",
+      "weight": "3-7 lbs",
+      "value": "13-16",
+      "type": "Twig Rod"
+    },
+    "cutthroat": {
+      "name": "Cutthroat Trout",
+      "location": "Toontown Central, Donald's Dock",
+      "weight": "2-10 lbs",
+      "value": "5-11",
+      "type": "Twig Rod"
+    },
+    "captain": {
+      "name": "Captain Cutthroat Trout",
+      "location": "Donald's Dock",
+      "weight": "4-10 lbs",
+      "value": "23-27",
+      "type": "Twig Rod"
+    },
+    "scurvy": {
+      "name": "Scurvy Cutthroat Trout",
+      "location": "Donald's Dock",
+      "weight": "4-10 lbs",
+      "value": "28-32",
+      "type": "Twig Rod"
+    },
+    "moonfish": {
+      "name": "Moon Fish",
+      "location": "Donald's Dreamland",
+      "weight": "4-6 lbs",
+      "value": "4-6",
+      "type": "Twig Rod"
+    },
+    "newmoob": {
+      "name": "New Moon Fish",
+      "location": "Donald's Dreamland",
+      "weight": "1 lbs",
+      "value": "8",
+      "type": "Twig Rod"
+    },
+    "crescentmoon": {
+      "name": "Crescent Moon Fish",
+      "location": "Donald's Dreamland, Lullaby Lane",
+      "weight": "2-6 lbs",
+      "value": "21-24",
+      "type": "Twig Rod"
+    },
+    "devilray": {
+      "name": "Devil Ray",
+      "location": "Any Pond",
+      "weight": "2-18 lbs",
+      "value": "44-56",
+      "type": "Twig Rod"
+    },
+    "alleycat": {
+      "name": "Alley Cat Fish",
+      "location": "Lullaby Lane, Donald's Dreamland",
+      "weight": "5-11 lbs",
+      "value": "15-19",
+      "type": "Bamboo Rod"
+    },
+    "tomcat": {
+      "name": "Tom Cat Fish",
+      "location": "Donald's Dreamland",
+      "weight": "5-11 lbs",
+      "value": "8-12",
+      "type": "Bamboo Rod"
+    },
+    "kiddiepool": {
+      "name": "Kiddie Pool Shark",
+      "location": "Daisy Gardens & Donald's Dock",
+      "weight": "8-12 lbs",
+      "value": "21-24",
+      "type": "Bamboo Rod"
+    },
+    "swimmingpool": {
+      "name": "Swimming Pool Shark",
+      "location": "Daisy Gardens & Donald's Dock",
+      "weight": "8-12 lbs",
+      "value": "26-29",
+      "type": "Bamboo Rod"
+    },
+    "olympic": {
+      "name": "Olympic Pool Shark",
+      "location": "Daisy Gardens & Donald's Dock",
+      "weight": "8-16 lbs",
+      "value": "31-37",
+      "type": "Bamboo Rod"
+    },
+    "frozenfish": {
+      "name": "Frozen Fish",
+      "location": "The Brrrgh",
+      "weight": "6-8 lbs",
+      "value": "7-10",
+      "type": "Bamboo Rod"
+    },
+    "rockstar": {
+      "name": "Rock Star Fish",
+      "location": "Minnie's Melodyland & Donald's Dock",
+      "weight": "5-10 lbs",
+      "value": "19-22",
+      "type": "Bamboo Rod"
+    },
+    "dogfish": {
+      "name": "Dog Fish",
+      "location": "Any Pond",
+      "weight": "7-15 lbs",
+      "value": "7-12",
+      "type": "Bamboo Rod"
+    },
+    "halfmoon": {
+      "name": "Half Moon Fish",
+      "location": "Lullaby Lane, Donald's Dreamland",
+      "weight": "6-10 lbs",
+      "value": "36-37",
+      "type": "Bamboo Rod"
+    },
+    "holey": {
+      "name": "Holey Mackerel",
+      "location": "Estate & Baritone Boulevard, Minnie's Melody land",
+      "weight": "6-10 lbs",
+      "value": "41-43",
+      "type": "Bamboo Rod"
+    },
+    "alaskan": {
+      "name": "Alaskan King Crab",
+      "location": "The Brrrgh",
+      "weight": "5-8 lbs",
+      "value": "29-31",
+      "type": "Bamboo Rod"
+    },
+    "holeymackerel": {
+      "name": "Holey Mackerel",
+      "location": "Lullaby Lane, Donald's Dreamland",
+      "weight": "6-10 lbs",
+      "value": "41-43",
+      "type": "Hardwood Rod"
+    },
+    "seahorse": {
+      "name": "Sea Horse",
+      "location": "Any Pond",
+      "weight": "12-16 lbs",
+      "value": "13-19",
+      "type": "Hardwood Rod"
+    },
+    "rockingsea": {
+      "name": "Rocking Sea Horse",
+      "location": "Any Pond",
+      "weight": "12-18 lbs",
+      "value": "18-21",
+      "type": "Hardwood Rod"
+    },
+    "brownbear": {
+      "name": "Brown Bear Acuda",
+      "location": "The Brrrgh",
+      "weight": "10-18 lbs",
+      "value": "10-18",
+      "type": "Hardwood Rod"
+    },
+    "blackbear": {
+      "name": "Black Bear Acuda",
+      "location": "The Brrrgh",
+      "weight": "10-18 lbs",
+      "value": "15-21",
+      "type": "Hardwood Rod"
+    },
+    "koalabear": {
+      "name": "Koala Bear Acuda",
+      "location": "The Brrrgh",
+      "weight": "10-18 lbs",
+      "value": "18-26",
+      "type": "Hardwood Rod"
+    },
+    "honeybear": {
+      "name": "Honey Bear Acuda",
+      "location": "The Brrrgh",
+      "weight": "10-18 lbs",
+      "value": "23-29",
+      "type": "Hardwood Rod"
+    },
+    "polarbear": {
+      "name": "Polar Bear Acuda",
+      "location": "The Brrrgh",
+      "weight": "12-20 lbs",
+      "value": "29-35",
+      "type": "Hardwood Rod"
+    },
+    "baby": {
+      "name": "Baby Grand Piano Tuna",
+      "location": "Tenor Terrace, Minnie's Melodyland",
+      "weight": "12-18 lbs",
+      "value": "48-50",
+      "type": "Hardwood Rod"
+    },
+    "piano": {
+      "name": "Player Piano Tuna",
+      "location": "Minnie's Melodyland",
+      "weight": "12-18 lbs",
+      "value": "29-39",
+      "type": "Hardwood Rod"
+    },
+    "uprightpiano": {
+      "name": "Upright Piano Tuna",
+      "location": "Minnie's Melodyland",
+      "weight": "12-18 lbs",
+      "value": "29-34",
+      "type": "Hardwood Rod"
+    },
+    "harvestnoob": {
+      "name": "Harvest Moon Fish",
+      "location": "Donald's Dreamland",
+      "weight": "10-14 lbs",
+      "value": "18-21",
+      "type": "Hardwood Rod"
+    },
+    "poolshark": {
+      "name": "Pool Shark",
+      "location": "Any Pond",
+      "weight": "9-11 lbs",
+      "value": "14-15",
+      "type": "Hardwood Rod"
+    },
+    "pandabear": {
+      "name": "Panda Bear Acuda",
+      "location": "Polar Place & The Brrrgh",
+      "weight": "14-20 lbs",
+      "value": "36-40",
+      "type": "Steel Rod"
+    },
+    "kodiacbear": {
+      "name": "Kodiac Bear Acuda",
+      "location": "Sleet Street & The Brrrgh",
+      "weight": "14-20 lbs",
+      "value": "41-45",
+      "type": "Steel Rod"
+    },
+    "grizzly": {
+      "name": "Grizzly Bear Acuda",
+      "location": "Walrus Way, & The Brrrgh",
+      "weight": "16-20 lbs",
+      "value": "55-58",
+      "type": "Steel Rod"
+    },
+    "clydesdale": {
+      "name": "Clydesdale Sea Horse",
+      "location": "Estate & Elm Street (Daisy Gardens)",
+      "weight": "14-20 lbs",
+      "value": "26-30",
+      "type": "Steel Rod"
+    },
+    "arabian": {
+      "name": "Arabian Sea Horse",
+      "location": "Estate",
+      "weight": "14-20 lbs",
+      "value": "36-40",
+      "type": "Steel Rod"
+    },
+    "pianotana": {
+      "name": "Piano Tuna",
+      "location": "Any Pond",
+      "weight": "13-17 lbs",
+      "value": "25-28",
+      "type": "Steel Rod"
+    },
+    "grandpianotana": {
+      "name": "Grand Piano Tuna",
+      "location": "Alto Avenue, Minnie's Melodyland",
+      "weight": "16-20 lbs",
+      "value": "55-59",
+      "type": "Steel Rod"
+    },
+    "bulldog": {
+      "name": "Bull Dog Fish",
+      "location": "Donald's Dock, Estate",
+      "weight": "18-20 lbs.",
+      "value": "34-45",
+      "type": "Gold Rod"
+    },
+    "fullmoon": {
+      "name": "Full Moon Fish",
+      "location": "Donald's Dreamland, Daisy Gardens",
+      "weight": "14-18 lbs",
+      "value": "40-50",
+      "type": "Gold Rod"
+    }
+}
+}

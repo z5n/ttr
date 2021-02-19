@@ -1,0 +1,100 @@
+{
+    "cogs": {
+        "coldcaller": {
+            "level 1": "20",
+            "level 2": "30",
+            "level 3": "40",
+            "level 4": "50",
+            "level 5": "200"
+        },
+        "telemarketer": {
+            "level 2": "40",
+            "level 3": "50",
+            "level 4": "60",
+            "level 5": "70",
+            "level 6": "300"
+        },
+        "namedropper": {
+            "level 3": "60",
+            "level 4": "80",
+            "level 5": "100",
+            "level 6": "120",
+            "level 7": "500"
+        },
+        "gladhander": {
+            "level 4": "100",
+            "level 5": "130",
+            "level 6": "160",
+            "level 7": "190",
+            "level 8": "800"
+        },
+        "moverandshaker": {
+            "level 5": "160",
+            "level 6": "210",
+            "level 7": "260",
+            "level 8": "310",
+            "level 9": "1,300"
+        },
+        "twoface": {
+            "level 6": "260",
+            "level 7": "340",
+            "level 8": "420",
+            "level 9": "500",
+            "level 10": "2,100"
+        },
+        "themingler": {
+            "level 7": "420",
+            "level 8": "550",
+            "level 9": "680",
+            "level 10": "810",
+            "level 11": "3,400"
+        },
+        "mrhollywood": {
+            "level 8": "680",
+            "level 9": "890",
+            "level 10": "1,100",
+            "level 11": "1,310",
+            "level 12": "5,500"
+        },
+        "prestige": {
+            "level 13": "680",
+            "level 14": "5,500",
+            "level 15": "680",
+            "level 16": "890",
+            "level 17": "1,100",
+            "level 18": "1,310",
+            "level 19": "5,500",
+            "level 20": "680",
+            "level 21": "890",
+            "level 22": "1,100",
+            "level 23": "1,310",
+            "level 24": "1,520",
+            "level 25": "1,730",
+            "level 26": "1,940",
+            "level 27": "2,150",
+            "level 28": "2,360",
+            "level 29": "5,500",
+            "level 30": "680",
+            "level 31": "890",
+            "level 32": "1,100",
+            "level 33": "1,310",
+            "level 34": "1,520",
+            "level 35": "1,730",
+            "level 36": "1,940",
+            "level 37": "2,150",
+            "level 38": "2,360",
+            "level 39": "5,500",
+            "level 40": "680",
+            "level 41": "890",
+            "level 42": "1,100",
+            "level 43": "1,310",
+            "level 44": "1,520",
+            "level 45": "1,730",
+            "level 46": "1,940",
+            "level 47": "2,150",
+            "level 48": "2,360",
+            "level 49": "5,500",
+            "level 50": "maxed"
+        }
+    } 
+}

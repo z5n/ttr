@@ -1,0 +1,172 @@
+{
+    "flowers": {
+    "laffodil": {
+    "name": "Laff-o-dil",
+    "type": "Daffodil",
+    "level": "One Jellybean",
+    "value": "2",
+    "combo": "green"
+    },
+    "dandypansy": {
+    "name": "Dandy Pansy",
+    "type": "Pansy",
+    "level": "One Jellybean",
+    "value": "2",
+    "combo": "orange"
+    },
+    "carnation": {
+    "name": "What-in Carnation",
+    "type": "Carnation",
+    "level": "One Jellybean",
+    "value": "2",
+    "combo": "pink"
+    },
+    "schooldaisy": {
+    "name": "School Daisy",
+    "type": "Daisy",
+    "level": "One Jellybean",
+    "value": "2",
+    "combo": "pink"
+    },
+    "lily": {
+    "name": "Lily-of-the-Alley",
+    "type": "Lily",
+    "level": "One Jellybean",
+    "value": "2",
+    "combo": "cyan"
+    },
+    "daffydill": {
+    "name": " Daffy Dill",
+    "type": "Carnation",
+    "level": "Two Jellybean",
+    "value": "4",
+    "combo": "green, cyan"
+    },
+    "chimpansy": {
+    "name": "Chim Pansy",
+    "type": "Pansy",
+    "level": "Two Jellybean",
+    "value": "4",
+    "combo": "orange, cyan"
+    },
+     "lazydaisy": {
+    "name": "Lazy Daisy",
+    "type": "Daisy",
+    "level": "Two Jellybean",
+    "value": "4",
+    "combo": "yellow, red"
+    },
+    "lilypad": {
+    "name": "Lily Pad",
+    "type": "Pansy",
+    "level": "Two Jellybean",
+    "value": "4",
+    "combo": "cyan, green"
+    },
+    "summer": {
+    "name": "Summer's Last Rose",
+    "type": "Rose",
+    "level": "Three Jellybean",
+    "value": "6",
+    "combo": "red, red, red"
+    }, 
+    "potsen": {
+    "name": "Potsen Pansy",
+    "type": "Pansy",
+    "level": "Three Jellybean",
+    "value": "6",
+    "combo": "orange, red, red"
+    },
+    "hybrid": {
+    "name": "Hybrid Carnation",
+    "type": "Carnation",
+    "level": "Three Jellybean",
+    "value": "6",
+    "combo": "pink, red, red"
+    },
+    "midsummer": {
+    "name": "Midsummer Daisy",
+    "type": "Daisy",
+    "level": "Three Jellybean",
+    "value": "6",
+    "combo": "yellow, red, green"
+    },
+    "tigerlily": {
+    "name": "Tiger Lily",
+    "type": "Lily",
+    "level": "Three Jellybean",
+    "value": "6",
+    "combo": "cyan, ornage, orange"
+    },
+    "cornrose": {
+    "name": "Corn Rose",
+    "type": "Rose",
+    "level": "Four Jellybean",
+    "value": "8",
+    "combo": "red, yellow, orange, yellow"
+    },
+    "giraff": {
+    "name": "Giraff-o-dil",
+    "type": "Daffodil",
+    "level": "Four Jellybean",
+    "value": "8",
+    "combo": "green, pink, yellow, yellow"
+    },
+    "mazripansy": {
+    "name": "Marzi Pansy",
+    "type": "Pansy",
+    "level": "Four Jellybean",
+    "value": "8",
+    "combo": "orange, yellow, yellow, red"
+    },
+    "freshasa": {
+    "name": "Freshasa Daisy",
+    "type": "Daisy",
+    "level": "Four Jellybean",
+    "value": "8",
+    "combo": "yellow, red, cyan, orange"
+    },
+    "liveredlily": {
+    "name": "Livered Lily",
+    "type": "Lily",
+    "level": "Four Jellybean",
+    "value": "8",
+    "combo": "cyan, orange, orange, pink"
+    },
+    "time": {
+    "name": "Time and a half-o-dil",
+    "type": "Daffodil",
+    "level": "Five Jellybean",
+    "value": "10",
+    "combo": "green, pink, blue, pink, pink"
+    },
+    "onelip": {
+    "name": "Onelip",
+    "type": "Tulip",
+    "level": "Five Jellybean",
+    "value": "10",
+    "combo": "violet, red, blue, violet, violet"
+    },
+    "sidecarnation": {
+    "name": "Side Carnation",
+    "type": "Carnation",
+    "level": "Five Jellybean",
+    "value": "10",
+    "combo": "pink, red, green, blue, red"
+    },
+    "whoopsiedaisy": {
+    "name": "Whoopsie Daisy",
+    "type": "Daisy",
+    "level": "Five Jellybean",
+    "value": "10",
+    "combo": "yellow, red, orange, orange, orange"
+    },
+    "chililily": {
+    "name": "Chili Lily",
+    "type": "Lily",
+    "level": "Five Jellybean",
+    "value": "10",
+    "combo": "cyan, red, red, red, red"
+    }
+    }
+}
