@@ -1,7 +1,5 @@
 #/bin/sh
-# github.com/dylanaraps
-
-# edited by 9ns, (sorry idk another way to call packages :( i am shit at this.
+# get system information on discord
 
 checkexec() {
 			command -v "$1" > /dev/null
